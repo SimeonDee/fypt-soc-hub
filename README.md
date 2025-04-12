@@ -3,6 +3,11 @@ Final Year Project Topic Hub for School of Computing. A project for managing fin
 
 A fullstack web application for managing students and supervisors for final year project including topic registrations. Uses string matching algorithm to calculate topic similarities and prevent duplication of topics.
 
+## Contacts
+Author: `Adedoyin Simeon Adeyemi` | [LinkedIn](https://www.linkedin.com/in/adedoyin-adeyemi-a7827b160/)
+
+---
+
 ## Tools
 
 - Python
@@ -48,11 +53,4 @@ $ (env) pip install -r ./requirements.txt
 ```bash
 $ python3 app.py
 ```
-
-## Contacts
-
-
-Author: `Adedoyin Simeon Adeyemi` | [LinkedIn](https://www.linkedin.com/in/adedoyin-adeyemi-a7827b160/)
-
----
 
