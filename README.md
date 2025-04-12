@@ -11,6 +11,7 @@ Author: `Adedoyin Simeon Adeyemi`
 
 
 ## Tools
+
 - Python
 - Flask
 - Jinja2
@@ -22,6 +23,7 @@ Author: `Adedoyin Simeon Adeyemi`
 - Bootstrap
 
 ## Setup
+
 Setup details here...
 
 ### Create virtual environment
@@ -50,7 +52,6 @@ $ (env) pip install -r ./requirements.txt
 
 ### Run application
 
-- Mac Users
 ```bash
 $ python3 app.py
 ```
