@@ -5,7 +5,6 @@ A fullstack web application for managing students and supervisors for final year
 
 ## Contacts
 Author: `Adedoyin Simeon Adeyemi` | [LinkedIn](https://www.linkedin.com/in/adedoyin-adeyemi-a7827b160/)
-
 ---
 
 ## Tools
