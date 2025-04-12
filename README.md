@@ -45,12 +45,12 @@ $ venv/Script/activate
 ### Install dependencies
 
 ```bash
-$ (env) pip install -r ./requirements.txt
+(env) $ pip install -r ./requirements.txt
 ```
 
 ### Run application
 
 ```bash
-$ python3 app.py
+(env) $ python3 app.py
 ```
 
